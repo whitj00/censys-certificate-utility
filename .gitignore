@@ -1,0 +1,11 @@
+*.csv
+*.orig
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
