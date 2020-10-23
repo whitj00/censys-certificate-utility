@@ -4,7 +4,10 @@ Output a CSV with certificate information for all trusted X.509 certificates ass
 
 ## Install
 
+To install the requirements for this project, please run
+
     $ pip install -r requirements.txt
+
 or
 
     $ pip install censys
